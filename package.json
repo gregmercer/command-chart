@@ -1,5 +1,5 @@
 {
-  "name": "command-simple",
+  "name": "command-chart",
   "version": "1.0.0",
   "main": "index",
   "dependencies": {
@@ -7,6 +7,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gregmercer/command-simple"
+    "url": "https://github.com/gregmercer/command-chart"
   }
 }
